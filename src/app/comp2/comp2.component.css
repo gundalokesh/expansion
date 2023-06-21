@@ -1,0 +1,12 @@
+.btn{
+    background-color: rgb(139, 139, 236);
+    border: 1px solid blue;
+    border-radius: 30px;
+    margin-left: 50%;
+    transform: translate(-50%,0);
+}
+.box{
+    width: 100%;
+   
+    background-color: rgb(210, 210, 231);
+}
